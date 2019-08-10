@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\Github\SearchingAlgorithm\SearchingAlgorithm\obj\Debug\netcoreapp2.0\SearchingAlgorithm.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Github\SearchingAlgorithm\SearchingAlgorithm\obj\Debug\netcoreapp2.0\SearchingAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Github\SearchingAlgorithm\SearchingAlgorithm\obj\Debug\netcoreapp2.0\SearchingAlgorithm.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Github\SearchingAlgorithm\SearchingAlgorithm\obj\Debug\netcoreapp2.0\SearchingAlgorithm.AssemblyInfo.cs
+C:\Users\PC\Desktop\Github\SearchingAlgorithm\SearchingAlgorithm\bin\Debug\netcoreapp2.0\SearchingAlgorithm.deps.json
+C:\Users\PC\Desktop\Github\SearchingAlgorithm\SearchingAlgorithm\bin\Debug\netcoreapp2.0\SearchingAlgorithm.runtimeconfig.json
+C:\Users\PC\Desktop\Github\SearchingAlgorithm\SearchingAlgorithm\bin\Debug\netcoreapp2.0\SearchingAlgorithm.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Github\SearchingAlgorithm\SearchingAlgorithm\bin\Debug\netcoreapp2.0\SearchingAlgorithm.dll
+C:\Users\PC\Desktop\Github\SearchingAlgorithm\SearchingAlgorithm\bin\Debug\netcoreapp2.0\SearchingAlgorithm.pdb
+C:\Users\PC\Desktop\Github\SearchingAlgorithm\SearchingAlgorithm\obj\Debug\netcoreapp2.0\SearchingAlgorithm.dll
+C:\Users\PC\Desktop\Github\SearchingAlgorithm\SearchingAlgorithm\obj\Debug\netcoreapp2.0\SearchingAlgorithm.pdb
